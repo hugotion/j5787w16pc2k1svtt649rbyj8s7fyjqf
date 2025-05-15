@@ -49,7 +49,7 @@ jobs:
 
           [params]
             # Add any theme-specific parameters here
-          EOL
+        EOL
         fi
       
     - name: Delete Workflow File
